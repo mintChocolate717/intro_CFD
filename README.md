@@ -36,7 +36,7 @@ The final project involves designing, executing, and analyzing a **CFD simulatio
 ## **How to Use This Repository**  
 1. **Clone the repo** to your local machine:  
    ```bash
-   git clone git@github.com:your-username/coe347-cfd.git
-   cd coe347-cfd
+   git clone git@github.com:your-username/intro_CFD.git
+   cd intro_CFD
 
 **For any questions, please email jiwoongchoi0207@icloud.com**
